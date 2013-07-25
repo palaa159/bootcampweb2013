@@ -6,8 +6,7 @@ Bootcamp Web Section for Flatiron Building
 Greetings Bootcampers
 Welcome to MFADT Bootcamp '13
 
-This note is made specifically for Michael's web section.
-(isn't it cool?)
+This note is made specifically for Michael's web section. (isn't it cool?)
 
 Slides and examples
 <br>DAY01:
