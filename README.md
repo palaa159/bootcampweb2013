@@ -10,15 +10,15 @@ This note is made specifically for Michael's web section.
 (isn't it cool?)
 
 Slides and examples
-DAY01:
-DAY02:
-DAY03:
-DAY04:
-DAY05:
-DAY06:
-DAY07:
-DAY08:
-DAY09:
+<br>DAY01:
+<br>DAY02:
+<br>DAY03:
+<br>DAY04:
+<br>DAY05:
+<br>DAY06:
+<br>DAY07:
+<br>DAY08:
+<br>DAY09:
 
 Remember, web is a trilogy. 
 - HTML (structure)
