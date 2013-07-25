@@ -1,4 +1,4 @@
-bootcampweb2013
+Bootcamp Web 2013
 ===============
 
 Bootcamp Web Section for Flatiron Building
@@ -19,17 +19,17 @@ Slides and examples
 <br>DAY08:
 <br>DAY09:
 
-Remember, web is a trilogy. 
+<b>Remember, web is a trilogy. </b>
 - HTML (structure)
 - CSS (styling)
 - JS (interaction)
 
-Adding a comment in web document
+<b>Adding a comment in web document </b>
 - HTML : <!-- content begins here -->
 - CSS : /* some explanation */
 - JS/JQUERY : //loop function
 
-Reading list. I know you guys are a bookworm
+<b>Reading list. I know you guys are a bookworm</b>
 <br>Jeffrey Zeldman - Designing With Web Standards
 <br>Steve Krug - Don’t Make Me Think!
 <br>Steve Krug - Rocket Surgery Made Easy
