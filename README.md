@@ -29,7 +29,7 @@ Adding a comment in web document <br>
 HTML : <!-- content begins here --> <br>
 CSS : /* some explanation */ <br>
 JS/JQUERY : //loop function <br>
-<br>
+
 <br>Cool resources I want you to look at
 <br>http://google.com -- ask anything. if code, look for answer in stackoverflow
 <br>http://abduzeedo.com -- tons of inspiration
@@ -48,13 +48,13 @@ JS/JQUERY : //loop function <br>
 <br>http://www.noupe.com/freelance/what-s-in-a-price-the-guidelines-for-pricing-web-designs.html
 <br>-- how should I call when doing web freelance
 
-<br>Videos
+Videos
 <br>http://www.youtube.com/watch?v=XE_FPEFpHt4 -- Andrew Blum
 <br>http://www.youtube.com/watch?v=4v4XxlfVk3o -- Aaron Koblin
 <br>http://www.youtube.com/watch?v=hYzzWeuVXVY -- Mouse!
 <br>http://www.youtube.com/watch?v=OM6XIICm_qo -- The father of WWW
 
-<br>Relax
+Relax
 <br>http://www.youtube.com/user/Vsauce
 <br>http://9gag.com/
 <br>http://twistedsifter.com/
