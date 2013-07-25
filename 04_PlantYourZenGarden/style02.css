@@ -1,0 +1,61 @@
+html,body {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background:url(binding_dark.png);
+}
+
+#header {
+	text-align:left;
+	margin-top:50px;
+	padding-left:50px;
+}
+
+.title {
+	display:block;
+	font-family:Helvetica;
+	font-weight:800;
+	font-size:3em;
+	color:#fff;
+	text-shadow:1px 1px 1px #000;
+	background:#abff76;
+}
+
+h3 {
+	font-family:Helvetica;
+	font-weight:100;
+	font-size:.8em;
+	letter-spacing:5px;
+	color:#fff;
+}
+
+#content {
+	padding-left:50px;
+	font-family:Helvetica;
+	font-weight:200;
+	width:700px;
+	margin-top:50px;
+	line-height:1.5em;
+	color:#fff;
+}
+
+.imgDesc {
+	font-style:italic;
+	font-size:.7em;
+	position:relative;
+	left:50px;
+	top:-50px;
+}
+
+#imageOfSomething {
+	position:relative;
+	top:-200px;
+	left:400px;
+	text-align:center;
+}
+
+.aboutZenGarden {
+	color:#daffb4;
+}

@@ -1,0 +1,53 @@
+html,body {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background:url(squairy_light.png);
+}
+
+#header {
+	text-align:center;
+	margin-top:50px;
+}
+
+.title {
+	display:inline;
+	font-family:Helvetica;
+	font-weight:100;
+	font-size:3em;
+	border-bottom:#000 dotted 1px;
+	padding-bottom:5px;
+}
+
+h3 {
+	font-family:Helvetica;
+	font-weight:100;
+	font-size:.8em;
+	letter-spacing:5px;
+}
+
+#content {
+	font-family:Helvetica;
+	font-weight:200;
+	width:500px;
+	margin:0 auto; /* center div trick */
+	margin-top:50px;
+	line-height:1.5em;
+}
+
+.imgDesc {
+	font-style:italic;
+	font-size:.7em;
+}
+
+#imageOfSomething {
+	margin-top:25px;
+	text-align:center;
+}
+
+.aboutZenGarden {
+	display:inline;
+	background:#d9d9d9;
+}

@@ -1,0 +1,53 @@
+html,body {
+	margin:10px;
+	padding:0;
+	font-family:Helvetica,Arial,sans-serif;
+}
+
+.bigHead {
+	font-size:60px;
+	font-weight:bolder;
+	position:fixed;
+	top:-220px;
+}
+
+#content {
+	margin-top:150px;
+}
+
+h1 {
+	font-weight:700;
+}
+
+.explanation {
+	width:500px;
+}
+
+.caution {
+	color:red;
+}
+
+.answer {
+	color:#4caf6a;
+}
+
+.showOff {
+	font-size:48px;
+	font-weight:bolder;
+}
+
+.hoverMe {
+	transition:.6s;
+}
+
+#bloomer {
+	position:fixed;
+	top:0;
+	right:0;
+	width:0;
+	height:0;
+	background:#fff;
+	border-radius:9999px;
+	opacity:0;
+	z-index:-9;
+}
