@@ -29,7 +29,7 @@ Adding a comment in web document
 - CSS : /* some explanation */
 - JS/JQUERY : //loop function
 
-Reading list. I know you guys are a bookworm
+<b>Reading list. I know you guys are a bookworm</b>
 <br>Jeffrey Zeldman - Designing With Web Standards
 <br>Steve Krug - Don’t Make Me Think!
 <br>Steve Krug - Rocket Surgery Made Easy
