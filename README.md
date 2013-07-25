@@ -29,6 +29,19 @@ Adding a comment in web document
 - CSS : /* some explanation */
 - JS/JQUERY : //loop function
 
+Reading list. I know you guys are a bookworm
+<br>Jeffrey Zeldman - Designing With Web Standards
+<br>Steve Krug - Don’t Make Me Think!
+<br>Steve Krug - Rocket Surgery Made Easy
+<br>Jason Fried and David Heinemeier Hansson - Rework
+<br>Jesse James Garrett - The Elements of User Experience
+<br>Douglas Crockford - JavaScript: The Good Parts
+<br>Kristina Halvorson - Content Strategy for the Web
+<br>Jeremy Keith - DOM Scripting
+<br>Dan Cederholm and Ethan Marcotte - Handcrafted CSS: More Bulletproof Web Design
+<br>Dan Roam - Unfolding the Napkin
+<br>Donald A. Norman - The Design of Everyday Things
+
 <br>Cool resources I want you to look at
 <br>http://google.com -- ask anything. if code, look for answer in stackoverflow
 <br>http://abduzeedo.com -- tons of inspiration
