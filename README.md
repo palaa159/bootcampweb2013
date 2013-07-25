@@ -25,10 +25,10 @@ Remember, web is a trilogy.
 - CSS (styling)
 - JS (interaction)
 
-Adding a comment in web document <br>
-HTML : <!-- content begins here --> <br>
-CSS : /* some explanation */ <br>
-JS/JQUERY : //loop function <br>
+Adding a comment in web document
+- HTML : <!-- content begins here -->
+- CSS : /* some explanation */
+- JS/JQUERY : //loop function
 
 <br>Cool resources I want you to look at
 <br>http://google.com -- ask anything. if code, look for answer in stackoverflow
