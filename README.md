@@ -59,6 +59,7 @@ Slides and examples
 <br>http://www.chromeexperiments.com/ -- fresh from whom that rules the web
 <br>http://www.noupe.com/freelance/what-s-in-a-price-the-guidelines-for-pricing-web-designs.html
 <br>-- how should I call when doing web freelance
+<br>http://www.prophets.be/#/vision/trends-in-interactive-design-2013/ -- interactive trends 2013
 
 <b>Videos</b>
 <br>http://www.youtube.com/watch?v=XE_FPEFpHt4 -- Andrew Blum
