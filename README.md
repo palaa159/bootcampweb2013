@@ -57,6 +57,7 @@ Slides and examples
 <br>http://andrew-hoyer.com/ -- mind = blown web experiments
 <br>http://airtightinteractive.com -- mind = blown web experiments
 <br>http://www.chromeexperiments.com/ -- fresh from whom that rules the web
+<br>http://copypastecharacter.com/ -- Copy and paste special characters
 <br>http://www.noupe.com/freelance/what-s-in-a-price-the-guidelines-for-pricing-web-designs.html
 <br>-- how should I call when doing web freelance
 <br>http://www.prophets.be/#/vision/trends-in-interactive-design-2013/ -- interactive trends 2013
